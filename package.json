@@ -1,0 +1,4 @@
+{
+  "name": "rabbitmq-dead-letter-retry-worker",
+  "dependencies": { "amqplib": "^0.10.3" }
+}
